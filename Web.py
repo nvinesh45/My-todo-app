@@ -8,7 +8,7 @@ def add_todo():
 
 todos = functions.get_todos()
 
-st.title("My Todo App")
+st.title("My Todos App")
 st.subheader("Increase your productivity.")
 
 st.text_input(label="Enter a todo", placeholder="Add a new todo",
