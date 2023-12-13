@@ -1,5 +1,4 @@
 # My-todos-app
-My Todos Web App
 https://mytodosapp.streamlit.app
 
 This is a basic to-do web app created using Python and Streamlit. The app allows users to add tasks, mark them as completed, and remove completed tasks.
