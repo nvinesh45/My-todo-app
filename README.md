@@ -10,7 +10,7 @@ Mark Todo as Completed: Users have the ability to mark a task as completed. This
 
 Remove Completed Todo: Completed tasks can be removed from the to-do list. This helps users keep their list clean and focused on active tasks.
 
-##Technology Stack
+## Technology Stack
 Python: The application is built using the Python programming language.
 
 Streamlit: The main framework for building the web app. Streamlit provides a simple and intuitive way to create data-driven web applications.
