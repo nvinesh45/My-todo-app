@@ -22,11 +22,14 @@ Streamlit: The main framework for building the web app. Streamlit provides a sim
    git clone https://github.com/nvinesh45/My-todos-app
 
 2. **Navigate to the Project Folder:**
+   ```bash
    cd My-todos-app
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
+   ```bash
    pip install -r requirements.txt
 
-4. **Run the App:**
+6. **Run the App:**
+   ```bash
    streamlit run app.py
 
