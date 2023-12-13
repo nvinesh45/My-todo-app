@@ -19,4 +19,14 @@ Streamlit: The main framework for building the web app. Streamlit provides a sim
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/nvinesh45/My-todos-app
+
+2. **Navigate to the Project Folder:**
+   cd My-todos-app
+
+3. **Install Dependencies:**
+   pip install -r requirements.txt
+
+4. **Run the App:**
+   streamlit run app.py
+
